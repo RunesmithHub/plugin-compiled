@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "runesmith.compiled",
+  "name": "Compiled Languages",
+  "version": "0.1.0",
+  "summary": "Highlighting, comments and brackets for Go, Rust, Swift, Dart and Pascal.",
+  "authors": [
+    "Dylan de Beer"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/RunesmithHub/plugin-compiled",
+  "runesmithApi": "^0.2.0",
+  "projects": {
+    "contracts": "src/Runesmith.CompiledLanguages.Contracts/Runesmith.CompiledLanguages.Contracts.csproj",
+    "implementation": "src/Runesmith.CompiledLanguages/Runesmith.CompiledLanguages.csproj"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Languages"
+  ],
+  "keywords": [
+    "go",
+    "rs",
+    "swift",
+    "dart",
+    "pas"
+  ]
+}

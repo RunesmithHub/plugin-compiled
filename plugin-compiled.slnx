@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Runesmith.CompiledLanguages.Contracts/Runesmith.CompiledLanguages.Contracts.csproj" />
+    <Project Path="src/Runesmith.CompiledLanguages/Runesmith.CompiledLanguages.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Runesmith.CompiledLanguages.Tests/Runesmith.CompiledLanguages.Tests.csproj" />
+  </Folder>
+</Solution>
